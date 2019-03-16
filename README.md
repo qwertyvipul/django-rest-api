@@ -1,2 +1,5 @@
-# django-rest-api
-Django Rest API
+# Django REST API
+
+[Django Rest Framework - Quickstart](/tutorial)
+
+
